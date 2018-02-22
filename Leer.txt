@@ -1,0 +1,1 @@
+La autentificación de usuarios hubiera sido más fácil con middleware, pero no alcancé a investigar sobre eso.
